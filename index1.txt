@@ -1,1 +1,0 @@
-This is Devops lab start exploring git commands and make changes in the github
