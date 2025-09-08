@@ -1,9 +1,9 @@
 pipeline {
     agent any
     stages {
-        stage('Build and Test') {
+        stage('Build ') {
             steps {
-                echo 'Build and Test - successful!'
+                echo 'Build  - successful!'
             }
         }
         stage('Generate Artifact') {
